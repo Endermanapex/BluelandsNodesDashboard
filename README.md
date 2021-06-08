@@ -2,6 +2,8 @@
 Customize many different modules including:
 Announce, Auto-mod, General, Leveling, Music, and more!
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 **Made using [2PG](https://github.com/theADAMJR/2PG)**
 
 ## Prerequisites
